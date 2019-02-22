@@ -1,0 +1,25 @@
+{
+  "name": "gulpfile.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilf312/gulpfile.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilf312/gulpfile.js/issues"
+  },
+  "homepage": "https://github.com/wilf312/gulpfile.js#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-zip": "^4.2.0"
+  }
+}
